@@ -1,7 +1,7 @@
 const GameWindow = (): JSX.Element => {
   return (
-    <div id="window--text">
-      <div id="container--text">hi</div>
+    <div id="window--text" onClick={() => console.log("hi")}>
+      <div id="container--text"><p>hi</p></div>
     </div>
   );
 };
