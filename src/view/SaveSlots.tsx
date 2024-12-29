@@ -1,4 +1,3 @@
-import React from "react";
 import SaveSlot from "./SaveSlot";
 
 const MAX_SLOTS = 3;

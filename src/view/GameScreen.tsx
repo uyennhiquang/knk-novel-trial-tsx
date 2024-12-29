@@ -1,4 +1,3 @@
-import React from "react";
 import ParagraphJump from "./ParagraphJump";
 import GameWindow from "./GameWindow";
 import SaveAction from "./SaveAction";

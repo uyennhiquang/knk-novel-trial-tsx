@@ -1,5 +1,3 @@
-import React from "react";
-
 const SaveAction = (): JSX.Element => {
   return (
     <section id="section--save">

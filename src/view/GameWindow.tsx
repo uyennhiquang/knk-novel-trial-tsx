@@ -1,5 +1,3 @@
-import React from 'react'
-
 const GameWindow = (): JSX.Element => {
   return (
     <div id="window--text">
